@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Norman Parra]]></title>
         <description><![CDATA[Norman Parra]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/norman-parra/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 16:25:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Apr 2016 16:25:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/norman-parra/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kast]]></title>
+            <description><![CDATA[<article><h1>Kast</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a27273f7d9548e8564020c6bb4c2bcf4cdbf17b.png"></article>]]></description>
+            <link>https://thegrid.ai/norman-parra/kast/index.html</link>
+            <guid isPermaLink="false">b6f3c951-655e-4482-aec0-1d7e90eafb65</guid>
+            <pubDate>Sat, 02 Apr 2016 16:25:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Easter]]></title>
             <description><![CDATA[<article><h1>Easter</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bca95f4c-2f55-48d0-a76b-62491342c18a.png"></article>]]></description>
-            <link>undefinedeaster/index.html</link>
+            <link>https://thegrid.ai/norman-parra/easter/index.html</link>
             <guid isPermaLink="false">b7a9d9ad-d700-48bc-aa88-f339d52f7e28</guid>
             <pubDate>Sat, 02 Apr 2016 16:25:43 GMT</pubDate>
         </item>
